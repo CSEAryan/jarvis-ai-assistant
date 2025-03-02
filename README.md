@@ -1,5 +1,5 @@
 # Jarvis--AI-assistant
-his project is a voice assistant powered by Python, integrating speech recognition, text-to-speech (TTS), and AI-driven conversational responses. It utilizes Streamlit for the UI, pyttsx3 for speech synthesis, and TinyLlama from Hugging Face for generating AI-based responses.
+This project is a voice assistant powered by Python, integrating speech recognition, text-to-speech (TTS), and AI-driven conversational responses. It utilizes Streamlit for the UI, pyttsx3 for speech synthesis, and TinyLlama from Hugging Face for generating AI-based responses.
 
 ![Screensort](ss.png)
 
