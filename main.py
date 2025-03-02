@@ -26,7 +26,7 @@ if "spoken_text" not in st.session_state:
 spoken_text = st.empty()
 
 # Hugging Face Authentication
-HF_key = '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'
+HF_key = 'give acess toke of huggin face'
 login(HF_key)  # Authenticate once
 
 # Load Model and Tokenizer
